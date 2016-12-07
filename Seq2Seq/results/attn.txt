@@ -1,0 +1,1200 @@
+----------------------------------------
+Hindi: उसका वेतन आदि संसद विधि द्वारा निर्धारित करेगी
+Translated: the salaries etc will be laid by the parliament law
+
+Actual: his salary etcis left to be determined by parliament by law
+
+----------------------------------------
+Hindi: उसका मन अशांत था वह शांति चाzहता था
+Translated: his mind was <unk> he was peace
+
+Actual: his mind was perturbed and he wanted peace
+
+----------------------------------------
+Hindi: उस रात जब सारे यात्री सो जाते थे
+Translated: that night when all the passengers were <unk>
+
+Actual: that night when the passengers would be sleeping
+
+----------------------------------------
+Hindi: उस बच्चे के विषय में जिसे यहपत्र मिला
+Translated: about the subject of the child
+
+Actual: about the kid who got this paper
+
+----------------------------------------
+Hindi: उस ने सिर्फ इतना कहा “नहीं शुक्रिया ”
+Translated: that just said no you 
+
+Actual: she just says no thank you
+
+----------------------------------------
+Hindi: उस नाम के साथ कीरिंग मौजूद नहीं है
+Translated: the keyring with that name is not present
+
+Actual: a keyring with that name does not exist
+
+----------------------------------------
+Hindi: उस जमीन की कीमत ही 110 करोड़े रु
+Translated: the price of the land is rs 110 crore
+
+Actual: the cost of the land alone is a staggering rs 110 crore
+
+----------------------------------------
+Hindi: उपस्थित व्यक्ति के लिए रिक्तव्यस्त सूचना प्रश्नगत करें
+Translated: <unk> <unk> information for the person
+
+Actual: query free busy information for the attendees
+
+----------------------------------------
+Hindi: उपलब्ध मदद देखने के लिए यहाँ क्लिक करें
+Translated: click here to see the available help
+
+Actual: click here to view help available
+
+----------------------------------------
+Hindi: उपयोक्ता डेस्कटॉप फ़ाइल s नहीं बना सकता है
+Translated: cant create user desktop file s
+
+Actual: cant create user desktop file s
+
+----------------------------------------
+Hindi: उन्होने साहित्य में सामयिकता प्रबल आग्रह स्थापित किया।
+Translated: he established <unk> strong in literature
+
+Actual: the main characteristic of premchands writings is his interesting storytelling and use of simple language
+
+----------------------------------------
+Hindi: उन्होने गोपिनाथ का शव मॉंगकर उसका अंत्यसंस्कार किया।
+Translated: he <unk> the dead body of gopinath
+
+Actual: he asked for the dead body of gopinath and thencementrated
+
+----------------------------------------
+Hindi: उन्होने गोपिनाथ का शव मॉंगकर उसका अंत्यसंस्कार किया।
+Translated: he <unk> the dead body of gopinath
+
+Actual: he asked for dead body of gopinath and buried him likely
+
+----------------------------------------
+Hindi: उन्होंने शालेय भोजन कार्यक्रमों में निवेश किया है
+Translated: they have invested investment in the <unk> <unk> programme
+
+Actual: they invested in a school feeding program
+
+----------------------------------------
+Hindi: उन्होंने जोर देकर कहा है कि उसकी बेटी
+Translated: he says that his daughter was his daughter
+
+Actual: he insisted that his daughter my mom
+
+----------------------------------------
+Hindi: उन्होंने औसत पुरे 45 मिनट तक कार्य किया
+Translated: he worked for the average eight minutes
+
+Actual: worked the entire 45 minutes on average
+
+----------------------------------------
+Hindi: उन्हें हर रात को कहानी मत सुनाइये ।
+Translated: don t teach them every night
+
+Actual: dont read them bedtime stories every night
+
+----------------------------------------
+Hindi: उन्हें माउस कैसे उपयोग करते हैं दिखाया होगा”
+Translated: how do they use the mouse <unk>
+
+Actual: showed them how to use the mouse
+
+----------------------------------------
+Hindi: उन्हें मज़ा आता है लिटल मर्मेड बना कर
+Translated: they know it <unk> <unk> <unk>
+
+Actual: they liked to draw the little mermaid
+
+----------------------------------------
+Hindi: उन्हें जाड़े में इसलिए काम करना होता है
+Translated: they have to work in <unk>
+
+Actual: the reason why they have to work in winter
+
+----------------------------------------
+Hindi: उन्हें खराब स्तर के उत्पाद नहीं चाहिये ।
+Translated: they should not be able to pay
+
+Actual: they dont want secondstandard secondquality outputs
+
+----------------------------------------
+Hindi: उन्हें अपलोड कीजिये मैं सारी जानकारी भेज दूंगा
+Translated: they will send you all the information i send
+
+Actual: upload it ill give you all the details
+
+----------------------------------------
+Hindi: उन्हे कुछ एक साथ मिलकर करने दिया जाए
+Translated: they have to go together together
+
+Actual: and let them do something together
+
+----------------------------------------
+Hindi: उनमें से सर्वाधिक असाधारण लोग उत्तरी कोलंबिया के
+Translated: most of them most of the <unk> <unk>
+
+Actual: the most extraordinary are the kogi
+
+----------------------------------------
+Hindi: उनमें फौरन हासिल करने की उत्कट इच्छा है
+Translated: the desire to get beyond them is <unk>
+
+Actual:  there is a strong sense of wanting to make it quick 
+
+----------------------------------------
+Hindi: उनके विवरण आफको संलग्न कार्ड में मिलेंगे भाष्
+Translated: their details will be found in you
+
+Actual: you ll find their details on the enclosed card
+
+----------------------------------------
+Hindi: उनके मस्तिस्क के जगह की कोशिकाओं के साथ
+Translated: with the cells of their brain cells
+
+Actual: of the place cells in his brain currently
+
+----------------------------------------
+Hindi: उनके प्रमाणित सेवाओं में सुधार लाने के लिए
+Translated: to improve their <unk> services
+
+Actual: introduces a number of new national standards
+
+----------------------------------------
+Hindi: उनकी समाधि उनके अनुयाइयों के लिये पवित्र है।
+Translated: his mausoleum is sacred for his followers
+
+Actual: his followers consider swami bagh as a holy place
+
+----------------------------------------
+Hindi: उनकी समझ को विकसित होने में समय लगा
+Translated: it took them time to develop
+
+Actual: their understanding took time to develop
+
+----------------------------------------
+Hindi: उनकी टांगें छोटी और दुम लम्बी होती है
+Translated: their legs are short and tail
+
+Actual: the legs are short and the tail is long
+
+----------------------------------------
+Hindi: उन सब में जो एक बात आम है
+Translated: all of those things that are common
+
+Actual: the one thing that all of them have in common
+
+----------------------------------------
+Hindi: उन रोबोट्स के लिए जिनके पास संवेदना हो
+Translated: for those robots who have compassion
+
+Actual: for robots that actually have empathy
+
+----------------------------------------
+Hindi: उन दिनों अमेरिका में राजनीतिक वातावरण तनावपूर्ण था
+Translated: in those days political environments were <unk>
+
+Actual: the political climate in the us at the time was tense
+
+----------------------------------------
+Hindi: उदाहरण के लिए पशुओं को क्या डराता है
+Translated: what are the cattle for example
+
+Actual: would make the cattle balk like for example
+
+----------------------------------------
+Hindi: उत्तर प्रदेश भारत के उत्तर मे स्थित है।
+Translated: uttar pradesh is situated in the north of india
+
+Actual: uttar pradesh is situated in north part of india
+
+----------------------------------------
+Hindi: ईश्वर सबका स्वामी और सर्वोच्च आत्मा पुरूषोत्म है
+Translated: god is god and the supreme spirit of god
+
+Actual: god is the master of all lrb iswara rrb and the supreme soul lrb pursottam rrb
+
+----------------------------------------
+Hindi: ईमानदारी किसी कायदे कानून की मोहताज़ नहीं होती।
+Translated: honesty is not a <unk> of any law
+
+Actual: integrity has no need of rules
+
+----------------------------------------
+Hindi: ईजीआईडी को यूआईडी में नियत नहीं कर सका
+Translated: could not set <unk> to <unk>
+
+Actual: cant set euid to user uid
+
+----------------------------------------
+Hindi: इस्लाम एक अन्यंत सरल और सीधासादा धर्म है
+Translated: islam is a simple and <unk> religion
+
+Actual: islam is after all a very simple straightforward religion
+
+----------------------------------------
+Hindi: इसे विस्तार से climatecrisisnet पर समझाया गया है
+Translated: it is recognised by the extension of <unk>
+
+Actual: completely reduced and what it means is elaborated at climatecrisisnet
+
+----------------------------------------
+Hindi: इसे मामले में यह मान 2 प्रतिशत है
+Translated: this value in this case is 2 percent
+
+Actual: in the instant case the crossover value is 2 per cent
+
+----------------------------------------
+Hindi: इसे ब्रिटिश सेना का मुख्यालय भी बनाया गया।
+Translated: it was also made for the british army
+
+Actual: the british military headquarters was built
+
+----------------------------------------
+Hindi: इसे देववाणी अथवा सुरभारती भी कहा जाता है।
+Translated: it is also called <unk> or <unk>
+
+Actual: it is also called devavani or surbharati
+
+----------------------------------------
+Hindi: इसी तरह एक छह सितारों का अनुक्रम है
+Translated: similarly one six <unk> sequence is
+
+Actual: similarly theres another sequence of six stars
+
+----------------------------------------
+Hindi: इसी कारण वेद को ‘श्रुति भी कहते हैं।
+Translated: this is why vedas are also known as <unk>
+
+Actual: the vedas are also called shruti pronouncedverses because of this
+
+----------------------------------------
+Hindi: इसी कारण की वजह से हम सफल हैं
+Translated: because of this reason we succeed
+
+Actual: part of the reason were successful
+
+----------------------------------------
+Hindi: इससे उन्हें साफ रखने में सहायता मिलती है
+Translated: it helps them to clean them
+
+Actual: this helps to keep them clean
+
+----------------------------------------
+Hindi: इससे उनका जनसमर्थन बढेने की बजाए घटा है
+Translated: it has <unk> their <unk> rather than <unk>
+
+Actual: in the process she has lost much of the public support she once enjoyed
+
+----------------------------------------
+Hindi: इसलिये जेन को घर की दस प्रतिशत कीमत
+Translated: thats why the <unk> got 10 percent of the house
+
+Actual: so she has to give 10 percent of the mortgage
+
+----------------------------------------
+Hindi: इसलिए वो मुकाबाला बीच में समाप्त हो गया
+Translated: so they ended in the middle
+
+Actual: so the match was ended in between
+
+----------------------------------------
+Hindi: इसलिए मैंने फिर से नौकरी प्रारंभ कर दी
+Translated: so i went back to work again
+
+Actual: so i went back to work
+
+----------------------------------------
+Hindi: इसलिए इसमें बहुत से लोग समा जाते हैं
+Translated: so there are so many people <unk>
+
+Actual: so a lot of people fit in there
+
+----------------------------------------
+Hindi: इसमें भी श्वेत संगमर्मर का प्रयोग हुआ है।
+Translated: it also used white marble
+
+Actual: the white marble is used in its construction
+
+----------------------------------------
+Hindi: इसमें भी श्वेत संगमर्मर का प्रयोग हुआ है।
+Translated: it also used white marble
+
+Actual: the white marble is used for the construction
+
+----------------------------------------
+Hindi: इसमें उसकी सहायता मुख़्य सेना नायक करता था
+Translated: it helped him the chief army <unk>
+
+Actual: in this he was assisted by the commanderinchief
+
+----------------------------------------
+Hindi: इसमें 769572 अनुसूचित तथा 141610 जनजातिया लोग है
+Translated: it has <unk> <unk> and <unk> <unk>
+
+Actual: of these 769572 belong to the scheduled castes and 141610 to the scheduled tribes
+
+----------------------------------------
+Hindi: इसके बाद मैं थोड़ा और महत्वाकांक्षी हो गया
+Translated: then i went to another ambitious
+
+Actual: at that point i became a little more ambitious
+
+----------------------------------------
+Hindi: इसके पीछे पानी की कमी प्रमुख कारण था।
+Translated: the shortage of water was the main reason behind this
+
+Actual: the main reason behind this was shortage of water
+
+----------------------------------------
+Hindi: इसके अतिरिक्त भी कुरान के कई नाम हैं।
+Translated: apart from this there are many other names of kuraan
+
+Actual: except this there are number of name of kuran
+
+----------------------------------------
+Hindi: इसकी दीवारें काफी सुचिक्कनता से तराशी गईं हैं।
+Translated: its walls are <unk> with great <unk>
+
+Actual: its walls were fine tuned by chiseling
+
+----------------------------------------
+Hindi: इसकी टांगें मजबूत और पैर अच्छे होने चाहिएं
+Translated: its legs should be strong and foot
+
+Actual: it should have strong legs and sound feet
+
+----------------------------------------
+Hindi: इसका विचार यह था कि कुछ समय बाद
+Translated: the idea was that after some time
+
+Actual: and the idea was that at some point
+
+----------------------------------------
+Hindi: इसका निर्वाचन जनता प्रत्यक्ष रूप से करती है
+Translated: this is the <unk> of the public
+
+Actual: it is directly elected by the people
+
+----------------------------------------
+Hindi: इसका नाम है “तुम मुझे भुला न पाओगी”
+Translated: its called you <unk> me <unk>
+
+Actual: its called youre going to miss me
+
+----------------------------------------
+Hindi: इस स्थान में निर्देशिका नहीं बना सकता है
+Translated: cannot create directory in this location
+
+Actual: cannot make directory in this location
+
+----------------------------------------
+Hindi: इस स्थान को प्रदर्शित नहीं किया जा सका
+Translated: the location could not be displayed
+
+Actual: this location could not be displayed
+
+----------------------------------------
+Hindi: इस स्थान को आइकन दृश्य के द्वारा दिखाएँ
+Translated: display this location by the icon view
+
+Actual: display this location with the icon view
+
+----------------------------------------
+Hindi: इस सीडी या डीवीडी डिस्क की कॉपी करें
+Translated: copy this cd or dvd disc
+
+Actual: create a copy of this cd or dvd
+
+----------------------------------------
+Hindi: इस साइट का सुरक्षा प्रमाणपत्र विश्वस्नीय नहीं है
+Translated: this site is not security certificate <unk>
+
+Actual: the sites security certificate is not trusted
+
+----------------------------------------
+Hindi: इस सर्वेक्षण में numberofquestions सवाल कर रहे हैं
+Translated: <unk> questions in this survey
+
+Actual: there are numberofquestions questions in this survey
+
+----------------------------------------
+Hindi: इस सर्वर से संबंध अस्वीकृत कर दिया गया
+Translated: denied connection to this server
+
+Actual: the connection to this server was refused
+
+----------------------------------------
+Hindi: इस समूह मे शामील होनेवालों की योजना बनाये
+Translated: this group made a plan for <unk> <unk>
+
+Actual: assign all the users belonging to this group
+
+----------------------------------------
+Hindi: इस समय अभिगम पाने के लिये अनुमति नहीं
+Translated: no permission to access this time
+
+Actual: not permitted to gain access at this time
+
+----------------------------------------
+Hindi: इस सभ्यता के स्रोत वेद और पुराण हैं।
+Translated: the sources of this civilization are veda and puran
+
+Actual: this culture has its roots in vedaas puraanas
+
+----------------------------------------
+Hindi: इस सफर के दौरान वे लापता हो गए।
+Translated: during this journey they were missing
+
+Actual: he was found missing during his tour
+
+----------------------------------------
+Hindi: इस विषय में उसका फैसला अंतिम होता है
+Translated: his decision is final in this subject
+
+Actual: his decision in this matter is final
+
+----------------------------------------
+Hindi: इस विश्व में आपको इतना पानी कहाँ मिलेगा
+Translated: where will you get so water in this world
+
+Actual: and where in the world would you find such water
+
+----------------------------------------
+Hindi: इस विंडो के मुख्य उपकरणपट्टी की दृश्यता बदलें
+Translated: change the visibility of the main window in this window
+
+Actual: change the visibility of this windows main toolbar
+
+----------------------------------------
+Hindi: इस युक्ति के साथ संयुक्त पॉइंटर या कुंजीपटल
+Translated: joint <unk> or keyboard with this device
+
+Actual: associated pointer or keyboard with this device
+
+----------------------------------------
+Hindi: इस बीच धनी व्यक्ति स्वयं में सोचता है
+Translated: the rich man himself thinks among himself
+
+Actual: meanwhile the rich man thinks to himself
+
+----------------------------------------
+Hindi: इस बीच एचाऐएल की हालत काफी खराब है
+Translated: the condition of the <unk> is very bad
+
+Actual: meanwhile hil s bottom line is shattered
+
+----------------------------------------
+Hindi: इस बार उन्हे अलमोडा जेल में रखा गया।
+Translated: this time he was kept in almoda prison
+
+Actual: this time he placed in prison of almora
+
+----------------------------------------
+Hindi: इस बात को यकीनी बनाना आपका कर्तव्य है
+Translated: it is your duty to make sure that you make sure
+
+Actual: you are responsible for making sure this happens either by registering the child at a school or by making other arrangements which provide an effective education
+
+----------------------------------------
+Hindi: इस बटन को संपादन के लिए प्रयोग विधि
+Translated: the mode used to edit this button
+
+Actual: the method to use to edit this button
+
+----------------------------------------
+Hindi: इस फोल्डर को मिटायें बिना रद्दी में खिसकाए
+Translated: delete this folder without trash
+
+Actual: delete this folder without moving to the trash
+
+----------------------------------------
+Hindi: इस फोल्डर के साथ जुड़े वॉल्यूम आरंभ करें
+Translated: start the volume associated with this folder
+
+Actual: start the volume associated with this folder
+
+----------------------------------------
+Hindi: इस फ़ोल्डर में संदेश फिल्टर लागू करें f
+Translated: apply messages to this folder
+
+Actual: apply message filters to this folder
+
+----------------------------------------
+Hindi: इस प्रारूप के लिए कोई विकल्प नहीं हैं
+Translated: there are no options for this format
+
+Actual: there are no options for this format
+
+----------------------------------------
+Hindi: इस प्रक्रिया में करीब 2 घण्टे लगते हैं।
+Translated: this process takes nearly 2 hours
+
+Actual: and that process takes about two hours
+
+----------------------------------------
+Hindi: इस पृष्ठ पर पॉपअप अवरोधित किए गए थे
+Translated: popups were blocked on this page
+
+Actual: popups were blocked on this page
+
+----------------------------------------
+Hindi: इस पृष्ठ को प्रारंभ स्क्रीन में पिन करें
+Translated: pin this page to start screen
+
+Actual: pin this page to start screen
+
+----------------------------------------
+Hindi: इस नाम का वस्तु पहले से मौजूद है
+Translated: the object of this name already exists
+
+Actual: object with that name already exists
+
+----------------------------------------
+Hindi: इस तथ्य के अलावा कि एक तस्वीर में
+Translated: apart from this fact that a picture
+
+Actual: despite the fact that one image
+
+----------------------------------------
+Hindi: इस तकनीक को पुल तकनलाजी कहा जाता है।
+Translated: this technology is called <unk> <unk>
+
+Actual: this technology is called bridge technology
+
+----------------------------------------
+Hindi: इस तकनीक को पुल तकनलाजी कहा जाता है।
+Translated: this technology is called <unk> <unk>
+
+Actual: this technology is called as bridge technology
+
+----------------------------------------
+Hindi: इस तकनीक को पुल तकनलाजी कहा जाता है।
+Translated: this technology is called <unk> <unk>
+
+Actual: this technique is known as pull technology
+
+----------------------------------------
+Hindi: इस जिले में अनुमानित १५००० एककमरा फैक्ट्रियां हैं।
+Translated: in this district approximately <unk> <unk> <unk>
+
+Actual: the district has an estimated 15000 singleroom factories
+
+----------------------------------------
+Hindi: इस जंग में अली की सेना विजय हूई।
+Translated: in this war the army of ali <unk> <unk>
+
+Actual: alis army triumphed in the battle
+
+----------------------------------------
+Hindi: इस चित्र को संपादन के लिए प्रयोग विधि
+Translated: method to use for this image
+
+Actual: the method to use to edit this image
+
+----------------------------------------
+Hindi: इस क्षेत्र में और भी उन्नति हुई है
+Translated: there has been further progress in this area
+
+Actual: theres been development in this field
+
+----------------------------------------
+Hindi: इस के प्रभाव की समीक्षा होती रहनी चाहिए
+Translated: the impact of this effect should be kept kept
+
+Actual: its impact must be kept under review
+
+----------------------------------------
+Hindi: इस कार्य के रूप में चिह्नित किया जा
+Translated: mark this task as marked
+
+Actual: mark this task as to be done
+
+----------------------------------------
+Hindi: इस काम में मै कैसे मदद करूँ भाष्
+Translated: how do i help this work
+
+Actual: what can i do to help
+
+----------------------------------------
+Hindi: इनमें पुरे मुंबई में सैंकडों लोग मारे गये।
+Translated: in these <unk> people died in mumbai
+
+Actual: in those bomb blast hundreds of peoples were killed in all over mumbai
+
+----------------------------------------
+Hindi: इनमें पुरे मुंबई में सैंकडों लोग मारे गये।
+Translated: in these <unk> people died in mumbai
+
+Actual: hundreds of people died all over mumbai in these blasts
+
+----------------------------------------
+Hindi: इनमें गुजरात का १५७२ का अभियान भी था।
+Translated: it was also the <unk> campaign of gujarat
+
+Actual: in this 1572 campaign of gujarat is also there
+
+----------------------------------------
+Hindi: इनको सुलझाये बिना हम कुछ नहीं कर सकते
+Translated: without these things we cant do anything
+
+Actual: without solving them we cannot do anything
+
+----------------------------------------
+Hindi: इनके पंथ मुसलमानसंस्कृति और गोभक्षण के विरोधी थे।
+Translated: their <unk> were <unk> and <unk>
+
+Actual: his proses were against muslim culture and cow killings
+
+----------------------------------------
+Hindi: इन संदेशों का शुभारम्भ आदम से हुआ था।
+Translated: the <unk> of these messages was derived from adam
+
+Actual: these messages were started from aadam
+
+----------------------------------------
+Hindi: इन फव्वारों के और निकट से गुजरते हुए
+Translated: through these <unk> and <unk>
+
+Actual: flying closer and deeper into these jets
+
+----------------------------------------
+Hindi: इन पर ब्रुकलीन में शोध चल रहा है
+Translated: the research is running on these
+
+Actual: or homes that were doing research on now in brooklyn
+
+----------------------------------------
+Hindi: इन दूर स्थित जगहों पर यात्रा की है
+Translated: is to travel on the <unk>
+
+Actual: in these remote reaches of the planet
+
+----------------------------------------
+Hindi: इजरायल के लिये एकमात्र विकल्प सैन्य कार्रवाई है
+Translated: the only option for israel is military action
+
+Actual: at this time of war between israel and the palestinians halfbaked suggestions for a speedy resolution are whizzing by almost as fast as bullets
+
+----------------------------------------
+Hindi: इंजील जो कि ईसा को प्रदान की गयी।
+Translated: <unk> which was gifted to <unk>
+
+Actual: provided that the gospel of jesus
+
+----------------------------------------
+Hindi: इंजील जो कि ईसा को प्रदान की गयी।
+Translated: <unk> which was gifted to <unk>
+
+Actual: angel which was gifted to isa
+
+----------------------------------------
+Hindi: आसन्न हरिपुराअधिवेशन कांग्रेस का 51वां वार्षिक अधिवेशन था
+Translated: <unk> <unk> was the annual session of the congress
+
+Actual: the session at haripura was to be the fifty first annual assembly of the congress
+
+----------------------------------------
+Hindi: आश्विन शुक्ल प्रतिपदा से नवरात्रोत्सव आरंभ होता है।
+Translated: <unk> starts from <unk> shukla <unk>
+
+Actual: navratri festival starts from the white fortnight of ashwin month
+
+----------------------------------------
+Hindi: आवश्यक फ़ील्ड को रिक्त नहीं छोड़ा जा सकता
+Translated: the required field could not be left
+
+Actual: required field cannot be left blank
+
+----------------------------------------
+Hindi: आर्यों की सभ्यता को वैदिक सभ्यता कहते हैं।
+Translated: the culture of aryans is called vedic culture
+
+Actual: call them the vedic civilization of aryan civilization
+
+----------------------------------------
+Hindi: आरोह “unmount” या “unmountwithoperation” लागू नहीं करता है
+Translated: <unk> does not implement <unk> or <unk>
+
+Actual: mount doesnt implement unmount or unmountwithoperation
+
+----------------------------------------
+Hindi: आरबिट्रेशन अक्सर लिखित रूप में किया जाता है
+Translated: <unk> is often done in writing
+
+Actual: arbitration is often done in writing
+
+----------------------------------------
+Hindi: आरएसएस के पहले तीन सरसंघचालककेशव बलिराम हेड़गेवार एम
+Translated: first three <unk> <unk> <unk> <unk>
+
+Actual: being maharashtrian brahmins the first three rss chiefskb
+
+----------------------------------------
+Hindi: आरंभ में मक्के में छोटीछोटी सूरतें अवतीर्ण हुईं।
+Translated: in the beginning of <unk> there were different differences
+
+Actual: in the starting macci was having small speeches stories
+
+----------------------------------------
+Hindi: आरंभ में मक्के में छोटीछोटी सूरतें अवतीर्ण हुईं।
+Translated: in the beginning of <unk> there were different differences
+
+Actual: at the beginning in macca there was small faces
+
+----------------------------------------
+Hindi: आयात का औसत लगभग 10 करोड़ रूपये था
+Translated: imports averaged about 10 million rupees imports
+
+Actual: imports averaged about rs 10 crores
+
+----------------------------------------
+Hindi: आपको पुलिस से मदद कैसे मिल सकती है
+Translated: how do you get help from the police
+
+Actual: that the police will pass information about you to victim support so that they can offer you help and support unless you ask the police not to
+
+----------------------------------------
+Hindi: आपको तमाम सारी सीमाओं को पार करना होगा।
+Translated: you have to go across all the borders
+
+Actual: youve got to cross all these borders
+
+----------------------------------------
+Hindi: आपको इसे आस पास ही खोजना होता है
+Translated: you have to find it around
+
+Actual: youve just got to go around the block
+
+----------------------------------------
+Hindi: आपको आवश्यक पड़ेगी कई करोड़ टन पानी की
+Translated: you need to have a lot of million tonnes water
+
+Actual: you need something like tens of megatons of water
+
+----------------------------------------
+Hindi: आपके दिल में ज्यादा खून जाता है ।
+Translated: you have bleeding in your heart
+
+Actual: your heart gets more blood flow
+
+----------------------------------------
+Hindi: आपके इलाके में जो कुछ हो रहा है
+Translated: what is happening in your area
+
+Actual: how do you find out more or get involved
+
+----------------------------------------
+Hindi: आपका ted पर होना हमारा लिए सम्मान है।
+Translated: it is responsible for us to be at ted
+
+Actual: its an honor to have you at ted
+
+----------------------------------------
+Hindi: आप सुरक्षा के बारे में ऐसे सोचते हैं
+Translated: you might think about security safety
+
+Actual: thats how you think about security
+
+----------------------------------------
+Hindi: आप वास्तव में है कि यहाँ नीचे देखेंगे
+Translated: you are actually going to see here
+
+Actual: youll actually see that down here
+
+----------------------------------------
+Hindi: आप लाटरी जीतने वाले सारे लोगों से पूछें
+Translated: ask for a number of people who will win
+
+Actual: is like asking all the winners of lotteries
+
+----------------------------------------
+Hindi: आप यहाँ देख रहें हैं परिणाम के स्वर
+Translated: you see the results in the results
+
+Actual: what you see here is the audio result
+
+----------------------------------------
+Hindi: आप भले ही विचारों से सहमत ना हों
+Translated: you may not agree with ideas
+
+Actual: you may not agree with the ideas
+
+----------------------------------------
+Hindi: आप बीते हुए फैसले पर ध्यान करते हैं
+Translated: you have to focus on the right decisions
+
+Actual: you focus on the foregone option
+
+----------------------------------------
+Hindi: आप बीकानेर में इस तरह की चीज़ें देखेंगे
+Translated: you will see this kind of things in bikaner
+
+Actual: you will notice in bikaner things like this
+
+----------------------------------------
+Hindi: आप कौन कौन सी मरम्मत करा सकते है
+Translated: what repairs can you get done
+
+Actual: what repairs can you get done
+
+----------------------------------------
+Hindi: आप कुबनटु को कहां स्थापित करना चाहेंगे ।
+Translated: where would you like to install <unk>
+
+Actual: where would you like to install linux mint
+
+----------------------------------------
+Hindi: आप किस सेवा का उपयोग करना चाहते हैं
+Translated: what service you want to use
+
+Actual: which service do you want to use
+
+----------------------------------------
+Hindi: आप काम करने के लिए उपस्थित नही है
+Translated: you are not present for work
+
+Actual: you are not available for work
+
+----------------------------------------
+Hindi: आप कह सकते हैं एक चमत्कार होता है।
+Translated: you can say a miracle is a miracle
+
+Actual: you can say a miracle occurs
+
+----------------------------------------
+Hindi: आप ऑडियो रिकार्ड या प्ले नहीं कर सकते
+Translated: you cannot play audio record or play
+
+Actual: you will not be able to play or record audio
+
+----------------------------------------
+Hindi: आप उन संक्रमित कंप्यूटर को बेच सकते हैं
+Translated: you can sell the infected computer
+
+Actual: you can sell those infected computers
+
+----------------------------------------
+Hindi: आप उच्च स्तर की अंकगणित तक पहुँचते हैं।
+Translated: you reach high level of high level
+
+Actual: were getting into more advanced arithmetic
+
+----------------------------------------
+Hindi: आप इसकी आखों की ओर आकर्शित होते हैं
+Translated: you are <unk> on the <unk>
+
+Actual: what youre drawn to are her eyes
+
+----------------------------------------
+Hindi: आप इस बारे में क्या कर सकते हैं
+Translated: what can you do about this
+
+Actual: what can you do about it
+
+----------------------------------------
+Hindi: आप इस प्रश्न के subquestions जोड़ने की जरूरत
+Translated: you need to add this question to the <unk>
+
+Actual: you need to add subquestions to this question
+
+----------------------------------------
+Hindi: आप आज जितने जवान फिर कभी नहीं होंगे
+Translated: you will never be able to get around today
+
+Actual: you will never be as young as you are right now
+
+----------------------------------------
+Hindi: आप अपने घर में सुधार कर सकते है
+Translated: you can reform in your home
+
+Actual: you can carry out improvements to your home
+
+----------------------------------------
+Hindi: आप s के बदले काम कर रहे हैं
+Translated: you are working on behalf of s
+
+Actual: you are acting on behalf of s
+
+----------------------------------------
+Hindi: आप nhs की सहायता कैसे कर सकते है
+Translated: how you can help the nhs
+
+Actual: how you can help the nhs
+
+----------------------------------------
+Hindi: आधिकारिक जालस्थल पर उनका जीवन चरित अँग्रेजी में
+Translated: his life on official website in english
+
+Actual: his biography on the official place in english
+
+----------------------------------------
+Hindi: आदमी मैं एक भी और कमांडो नहीं भेजूँगा
+Translated: man is not a <unk> and a <unk>
+
+Actual: man i wont send any more commandos in
+
+----------------------------------------
+Hindi: आतंकवाद है कि एक मासूम अजनबी को पकडिये
+Translated: terrorism is a strange stranger to <unk>
+
+Actual: terrorism is basically taking an innocent stranger
+
+----------------------------------------
+Hindi: आजकल भाषा मात्र एक शब्द संग्रह नहीं है
+Translated: now language is not just a single collection
+
+Actual: now a language is not just a body of vocabulary
+
+----------------------------------------
+Hindi: आज से हजा़र साल बाद फ़िलहारमोनिक वाध वृन्द
+Translated: today <unk> years later <unk> <unk> <unk>
+
+Actual: about which a thousand years from now
+
+----------------------------------------
+Hindi: आखिर शांति लाना एक तेज़ दौड़ नहीं है।
+Translated: there is not a steady gathering to peace
+
+Actual: after all peacemaking is not a sprint
+
+----------------------------------------
+Hindi: आउटपुट डिवायस को वर्णन करते स्ट्रिंग की सूची
+Translated: list of string to describe the output <unk>
+
+Actual: list of strings describing output devices
+
+----------------------------------------
+Hindi: अस्थायी छवि के लिए कोई प्रारूप नहीं मिला
+Translated: no format found for temporary image
+
+Actual: no format for the temporary image could be found
+
+----------------------------------------
+Hindi: असल में ये कार्टूनों के ज़रिए पत्रकारिता है
+Translated: in fact these hopes are <unk> journalism
+
+Actual: so this is really journalism in cartoons
+
+----------------------------------------
+Hindi: अवैध आँकड़ा वर्ण है जावास्क्रिप्ट सुसंगतता अवस्था में
+Translated: invalid data character is in the <unk> mode
+
+Actual: is an invalid data character in javascript compatibility mode
+
+----------------------------------------
+Hindi: अविचारशीलता हमारी शत्रु है यह दर्शन है ”
+Translated:  our enemies is this philosophy 
+
+Actual: our enemy is thoughtlessness this is philosophy
+
+----------------------------------------
+Hindi: अल्पभार जनसंख्या के आधार पर भारत के राज्य
+Translated: indian states ranking by population population
+
+Actual: indian states ranking by underweight people
+
+----------------------------------------
+Hindi: अल्पभार जनसंख्या के आधार पर भारत के राज्य
+Translated: indian states ranking by population population
+
+Actual: indian states ranking by underweight people
+
+----------------------------------------
+Hindi: अली उससे एक ग्राम के 4500 ऋ लेता
+Translated: the ali makes a <unk> of a village
+
+Actual: ali was charging bhalla an astounding rs 4500 a gram
+
+----------------------------------------
+Hindi: अभिलेख के परीक्षम के दौरान एक त्रुटि हुई
+Translated: an error occurred during the <unk> of the archive
+
+Actual: an error occurred while testing archive
+
+----------------------------------------
+Hindi: अब्बासी खलीफा ज्ञान को बहुत महत्त्व देते थे।
+Translated: abbasi gave importance to knowledge to knowledge
+
+Actual: abbasi caliph gave great importance to knowledge
+
+----------------------------------------
+Hindi: अब हर इंसान को आजादी का हक है
+Translated: now every human being is right for freedom
+
+Actual: now every person is entitled to freedom
+
+----------------------------------------
+Hindi: अब से हम प्रति व्यक्ति ही गणना करेंगे।
+Translated: from now we count per capita
+
+Actual: from now on we count per capita
+
+----------------------------------------
+Hindi: अब से पांच १० या २० साल बाद
+Translated: now five or 20 years later
+
+Actual: five 10 or 20 years from now
+
+----------------------------------------
+Hindi: अब समय है यह अपने से पूछने का
+Translated: now its time to ask ourselves
+
+Actual: its time that we asked ourselves
+
+----------------------------------------
+Hindi: अब यह आप के लिए महत्वपूर्ण क्यों है
+Translated: now why is it important for you
+
+Actual: now why does this matter to you
+
+----------------------------------------
+Hindi: अब मुझे यहाँ एक क्षण रुकके कहने दीजीये
+Translated: now im going to call a moment here
+
+Actual: now let me pause here and take a moment to say that
+
+----------------------------------------
+Hindi: अब मामल पैगंबर बनाम पिज्जा हट का है
+Translated: the <unk> is now the <unk> of the prophet v <unk>
+
+Actual: it s prophet versus pizza hut
+
+----------------------------------------
+Hindi: अब देखिए प्लैंक उपग्रह को प्रक्षेपित किया जाएगा
+Translated: now the <unk> planet will be <unk>
+
+Actual: and you should look the planck satellite will be launched
+
+----------------------------------------
+Hindi: अब आते हैं पहेली के आखिरी हिस्से पर
+Translated: now the last part of the puzzle
+
+Actual: so the final part of the puzzle is
+
+----------------------------------------
+Hindi: अफ्रीका के नेतृत्व की स्तिथी के बारे में
+Translated: about the leadership of the <unk>
+
+Actual: about the state of leadership in africa
+
+----------------------------------------
+Hindi: अपितु यह दीक्षा की सूक्षमता पर आधारित है
+Translated: but its based on the <unk> of <unk>
+
+Actual: but on a far subtler intuition
+
+----------------------------------------
+Hindi: अपने स्तनों को भींचना या उकसाना नहीं चाहिए
+Translated: your breasts should not <unk> or <unk>
+
+Actual: women with heavy or large breasts should test their breasts in bed lying down on their backs
+
+----------------------------------------
+Hindi: अपने समयमण्डल में एक राज्य या प्रांत चुनें
+Translated: select a state or province in your <unk>
+
+Actual: select the state or province to set your time zone
+
+----------------------------------------
+Hindi: अपने माउस और टचपैड की वरीयताएँ नियत करें
+Translated: set your mouse and <unk> preferences
+
+Actual: set your mouse and touchpad preferences
+
+----------------------------------------
+Hindi: अपने बादल के साथ दूसरा फ़ोल्डर तुल्यकालित करें
+Translated: synchronize other folders with your cloud
+
+Actual: sync another folder with your cloud
+
+----------------------------------------
+Hindi: अपने आप को अपनी जगह से बाहर लो
+Translated: let yourself tell you your own location
+
+Actual: take yourself out of your shoes
+
+----------------------------------------
+Hindi: अपनी काउंसिल के हाउसिंग डिपार्टमैंट से सम्पर्क करें
+Translated: contact your council <unk> <unk>
+
+Actual: for example if you didnt keep your appointment to let the contractor in and they therefore couldnt carry out the repair the council wont have to pay you any compensation
+
+----------------------------------------
+Hindi: अपनी आंखों से आसानी से देख सकते हैं
+Translated: can be easily seen with your eyes
+
+Actual: you can see easily with your eye in here
+
+----------------------------------------
+Hindi: अन्य अनुच्छेद शक्ति विभाजन से सम्बन्धित नही है
+Translated: other articles are not related to division division
+
+Actual: the other section is not related to the division of the sections
+
+----------------------------------------
+Hindi: अनेक विवादग्रस्त प्रश्न तकनीकी प्रकृति के होते हैं
+Translated: many <unk> are the technical nature of nature
+
+Actual: iii many of the disputed questions are technical in nature
+
+----------------------------------------
+Hindi: अनेक जनजातियों में उनसे जुड़े विशेष रिवाज हैं
+Translated: in many tribes there are special customs
+
+Actual: quite a few tribes have special ceremonies related to them
+
+----------------------------------------
+Hindi: अनेक अमेरिकन विद्वानों ने उनका शिष्यत्व ग्रहण किया।
+Translated: many american scholars accepted their <unk>
+
+Actual: many american scholars took discipleship under them
+
+----------------------------------------
+Hindi: अनुप्रयोग के लिए जरूरी टर्मिनल ढूँढ़ने में असमर्थ
+Translated: unable to find the required terminal for application
+
+Actual: unable to find terminal required for application
+
+----------------------------------------
+Hindi: अतिरिक्त बूट तरीका विकृत तंत्र का उद्धार करें।
+Translated: the extra boot method <unk> the <unk> system
+
+Actual: additional boot methods rescuing a broken system
+
+----------------------------------------
+Hindi: अतः उन्होंने भागने से मना कर दिया ।
+Translated: so he refused to run away
+
+Actual: hence he refused to run away
+
+----------------------------------------
+Hindi: अचानक एक दिन उन्हें बाहर निकाला जाता है
+Translated: suddenly one day he is taken out
+
+Actual: one day theyre suddenly taken out
+
+----------------------------------------
+Hindi: अगर हम ग्रिड के जैसे तरीके को देखे
+Translated: if we saw a grid like grid
+
+Actual: if we look for this gridlike firing pattern
+
+----------------------------------------
+Hindi: अगर वह किसी विशेष पन्ने पे जाता है
+Translated: if it goes to a particular page
+
+Actual: if he turns to a particular page
+
+----------------------------------------
+Hindi: अगर मेरे पास स्वर्गगो से बुना कपडा हो
+Translated: if i have a <unk> <unk>
+
+Actual: had i the heavens embroidered cloths
+

@@ -1,0 +1,600 @@
+----------------------------------------
+Hindi: आपका ध्यान बँटने से बचा रहेगा।
+Translated: you will be able to save your <unk>
+
+Actual: to stop you from losing focus
+
+----------------------------------------
+Hindi: आप सब को पाकिस्तान से मंगलकामनाएँ
+Translated: you are all going to <unk>
+
+Actual: greetings to all of you from pakistan
+
+----------------------------------------
+Hindi: आप मुस्कुराइए अगर आप खुश हैं
+Translated: you are happy if you are happy
+
+Actual: you smile if you are happy
+
+----------------------------------------
+Hindi: आप देखोगे कि जैसेजैसे जनसंख्या बढ़ेगी
+Translated: you think that the population <unk>
+
+Actual: you will see that while population increase there are
+
+----------------------------------------
+Hindi: आप देख सकते हैं छोटे छेद
+Translated: you can see the stars
+
+Actual: you can notice the small holes
+
+----------------------------------------
+Hindi: आप छोटेछोटे क्षेत्र चुन सकते हैं
+Translated: you can select a large area
+
+Actual: you could draw little circles to say
+
+----------------------------------------
+Hindi: आत्मबोध पर केन्द्रित विशाल हृदयता सम्पूर्णता
+Translated: <unk> <unk> on <unk> <unk> <unk>
+
+Actual: on that self it should be centered a bigness a wholeness
+
+----------------------------------------
+Hindi: आज मैं आपसे चक्र और आत्मबोध
+Translated: today im going to show you today
+
+Actual: im here today to talk to you
+
+----------------------------------------
+Hindi: आज मेरी सिर्फ़ एक प्रार्थना है
+Translated: today i am a <unk>
+
+Actual: today i have just one request
+
+----------------------------------------
+Hindi: आज तक एवं हिन्दी का इण्डियाटुडे
+Translated: in terms of hindi and hindi
+
+Actual: aaj tak and india today in hindi
+
+----------------------------------------
+Hindi: आगरा और अवध संयुक्त प्रांत 1903
+Translated: agra and united provinces <unk> <unk>
+
+Actual: agra and avadh combined state 1903
+
+----------------------------------------
+Hindi: आगरा और अवध का संयुक्त प्रान्त
+Translated: united states of agra and agra
+
+Actual: united provinces of agra and oudh
+
+----------------------------------------
+Hindi: आखिर यह विज्ञान का सवाल है
+Translated: this is the question of the book
+
+Actual: its a scientific question after all
+
+----------------------------------------
+Hindi: आंतरिक त्रुटि अनजान त्रुटि s निवेदित
+Translated: error parsing error code d s
+
+Actual: internal error unknown error s requested
+
+----------------------------------------
+Hindi: आँकड़ा स्रोत s विस्थापनीय नहीं है
+Translated: data source s is not writable
+
+Actual: data source s is not removable
+
+----------------------------------------
+Hindi: अस्थायी फाइल बनाने में असमर्थ s
+Translated: unable to create temporary file s
+
+Actual: unable to create temporary file s
+
+----------------------------------------
+Hindi: असली दुनिया का कंप्यूटर द्वारा बनाये
+Translated: is the real way of the world
+
+Actual: is the melding of the real world
+
+----------------------------------------
+Hindi: असंस्तुत जेएफएस रूट फाइलतंत्र प्रयोग करें
+Translated: use <unk> <unk> <unk> <unk>
+
+Actual: use unrecommended jfs root file system
+
+----------------------------------------
+Hindi: अवलोकन में क्लिप दृश्य प्रबंधित करें
+Translated: view the background view in the desktop
+
+Actual: manage the clip view in the overview
+
+----------------------------------------
+Hindi: अबू हनीफा का यही कहना है
+Translated: this is the case of the <unk>
+
+Actual: this is what abu hanifa says
+
+----------------------------------------
+Hindi: अब वह मदद ढूँढने कैसे आएगा
+Translated: how can we help the world
+
+Actual: now how did he come to be looking for help
+
+----------------------------------------
+Hindi: अब यहाँ कट्टरपंथी प्रयोग आता है
+Translated: now this is using <unk>
+
+Actual: now here comes the radical experiment
+
+----------------------------------------
+Hindi: अब जो मुख्य खलनायक है रुघल
+Translated: now the main thing that is <unk>
+
+Actual: now the main bad guy rughal
+
+----------------------------------------
+Hindi: अब इन तीन पोट्रेटों को देखिए
+Translated: now three of these three <unk>
+
+Actual: ok now lets look at these three portraits
+
+----------------------------------------
+Hindi: अप्रत्याशित ” d पर s में
+Translated: unexpected silence at s d
+
+Actual: unexpected  at position d in s
+
+----------------------------------------
+Hindi: अप्रत्याशित जवाब d startservicebyname“s” विधि से
+Translated: unexpected unexpected position d on <unk>
+
+Actual: unexpected reply d from startservicebynames method
+
+----------------------------------------
+Hindi: अपेक्षा ही मनोव्यथा का मूल है।
+Translated: the <unk> of the <unk> is <unk>
+
+Actual: expectation is the root of all heartache
+
+----------------------------------------
+Hindi: अपने से उच्च अधिकारी के आदेश
+Translated: to the <unk> of the high court
+
+Actual: the orders of a superior officer
+
+----------------------------------------
+Hindi: अपने प्राम्भिक शल्य क्रिया के दौरान
+Translated: in the <unk> of their <unk>
+
+Actual: in the course of his early operations
+
+----------------------------------------
+Hindi: अपनी चाय न चुनने के बावजूद
+Translated: dont try to find out its own
+
+Actual: even though the tea was picked for you at random
+
+----------------------------------------
+Hindi: अपना बायां अंगूठा s पर रखें
+Translated: look at your <unk> at s
+
+Actual: place your left thumb on s
+
+----------------------------------------
+Hindi: अपना खुद का अलग फैशन बनाना
+Translated: to make your own <unk>
+
+Actual: developing your own unique personal style
+
+----------------------------------------
+Hindi: अन्य लोगों के साथ कैसे खेलें
+Translated: how do you do with other people
+
+Actual: how to play with other people
+
+----------------------------------------
+Hindi: अन्तर्राष्ट्रीय वायु यातायात संघ विमानक्षेत्र कोड
+Translated: international air force international airport code
+
+Actual: international air transport association airport code
+
+----------------------------------------
+Hindi: अनुमानित आरंभिक पिच sd 3f hz
+Translated: the <unk> <unk> <unk> <unk> <unk> <unk>
+
+Actual: estimated start pitch sd 3f hz
+
+----------------------------------------
+Hindi: अनुचित विषयों पर चिंतित होने लगें
+Translated: press <unk> on the <unk>
+
+Actual: to care about the wrong things
+
+----------------------------------------
+Hindi: अध्ययन वैज्ञानिक रूप से वैध हैं
+Translated: scientists are based on the scientific form
+
+Actual: now these studies are scientifically valid
+
+----------------------------------------
+Hindi: अधिकतर दुर्घटनाएं घर में होती हैं
+Translated: most of the <unk> are <unk>
+
+Actual: most accidents take place in the home
+
+----------------------------------------
+Hindi: अधिक जानकारी के लिए ‘l shelp
+Translated: for more information about <unk> <unk>
+
+Actual: try l shelp for more information
+
+----------------------------------------
+Hindi: अचानक आप उन्हें मेधावी कहने लगेंगे।
+Translated: ill go to them and say <unk>
+
+Actual: you now would think are gifted
+
+----------------------------------------
+Hindi: अगले पूंजीकरण शैली के लिए चक्र
+Translated: style of <unk> for the actor
+
+Actual: cycles to the next capitalization style
+
+----------------------------------------
+Hindi: अगले ट्रैक पर केंद्रित कर चुनें
+Translated: click on the next track
+
+Actual: move focus to next and select
+
+----------------------------------------
+Hindi: अगली चाल हेतु संकेत प्राप्त करें
+Translated: <unk> the next time for <unk>
+
+Actual: get a hint for your next move
+
+----------------------------------------
+Hindi: अगर आप बातचीत करना चाहते हैं
+Translated: if you want to do that
+
+Actual: if you want to have a conversation
+
+----------------------------------------
+Hindi: अगर आप पत्र लिखते हैं तो
+Translated: if you write in writing
+
+Actual: if you put it in writing
+
+----------------------------------------
+Hindi: अंतर्जाल से नवीनतम अद्यतन समाहित करें
+Translated: update the volume from <unk>
+
+Actual: include latest updates from the internet
+
+----------------------------------------
+Hindi: अंग्रेज़ी हिन्दी शब्दकोष पी॰डी॰ऍफ़॰ प्रारूप में
+Translated: english hindi dictionary in pdf form
+
+Actual: hindi english dictionary in pdf file format
+
+----------------------------------------
+Hindi: Включно всі мережі створені цим клієнтом
+Translated: reconnect automatically when the connection is lost
+
+Actual: include all networks created by this client
+
+----------------------------------------
+Hindi: xover से अप्रत्याशित सर्वर अनुक्रिया s
+Translated: unexpected response from imap server s
+
+Actual: unexpected server response from xover s
+
+----------------------------------------
+Hindi: xdmcp एक्सडीएमसीपी शीर्षिका पढ़ नहीं सका
+Translated: xdmcp could not read xdmcp header
+
+Actual: xdmcp could not read xdmcp header
+
+----------------------------------------
+Hindi: x ऑफसेट बाईं स्क्रीन किनारे से
+Translated: x x coordinate of the x screen
+
+Actual: x offset from the left screen edge
+
+----------------------------------------
+Hindi: win32 पर संगठन निर्माण समर्थित नहीं
+Translated: not supported on <unk> platform
+
+Actual: association creation not supported on win32
+
+----------------------------------------
+Hindi: vendorname का usb उपकरण एक्सेस करें
+Translated: connect to <unk> <unk> device
+
+Actual: access the usb device from vendorname
+
+----------------------------------------
+Hindi: usb पोर्ट में एक मुद्रक संबंधित
+Translated: <unk> a printer at port blair
+
+Actual: a printer connected to a usb port
+
+----------------------------------------
+Hindi: u उपयोक्ता t में लॉगिन करेगा
+Translated: automatically unlock the user in the user
+
+Actual: user u will login in t
+
+----------------------------------------
+Hindi: the health service ombudsman for england
+Translated: the national health service service
+
+Actual: the health service ombudsman for england
+
+----------------------------------------
+Hindi: td यहाँ आमंत्रित आप सभी आगंतुक
+Translated: chris anderson thank you so much
+
+Actual: td so every one of you who has come here
+
+----------------------------------------
+Hindi: spamassassin में पाइप विफल त्रुटि d
+Translated: <unk> failed to find <unk> d
+
+Actual: pipe to spamassassin failed error code d
+
+----------------------------------------
+Hindi: s रेंज के बाहर का मूल्य
+Translated: value of s out of range
+
+Actual: value of s out of range
+
+----------------------------------------
+Hindi: s में सहेजने में त्रुटि s
+Translated: error getting help to s s
+
+Actual: error while saving to s s
+
+----------------------------------------
+Hindi: s मुद्रक डेवलेपर से बाहर है
+Translated: printer s is out of <unk>
+
+Actual: printer s is out of developer
+
+----------------------------------------
+Hindi: s फ़ोल्डर निर्मित नहीं सका s
+Translated: could not create folder s s
+
+Actual: could not create folder s s
+
+----------------------------------------
+Hindi: s फ़ाइल खोलने में असफल s
+Translated: failed to open file s s
+
+Actual: failed to open file s s
+
+----------------------------------------
+Hindi: s ध्वनि और आँकड़ा s में
+Translated: sound data for s and s
+
+Actual: audio and data s in s
+
+----------------------------------------
+Hindi: s कारण sql कमांड विफल s
+Translated: s failed to create <unk> command s
+
+Actual: sql command failed s reason s
+
+----------------------------------------
+Hindi: s उत्पादक आईडी पढ़ नहीं पाया
+Translated: s could not read id <unk>
+
+Actual: s could not read manufacturer id
+
+----------------------------------------
+Hindi: s अभिलेख हेतु कूटशब्द दाखिल करें
+Translated: enter the password for the s keyring
+
+Actual: enter the password for the archive s
+
+----------------------------------------
+Hindi: princess royal trust for carers prtc
+Translated: <unk> <unk> <unk> <unk> <unk> <unk>
+
+Actual: princess royal trust for carers prtc
+
+----------------------------------------
+Hindi: pixbuf के पिक्सेल डाटा में संकेतक
+Translated: <unk> data in pixels of <unk>
+
+Actual: a pointer to the pixel data of the pixbuf
+
+----------------------------------------
+Hindi: perbarui daftar jaringan setiap s detik
+Translated: update the network list every s second
+
+Actual: update the network list every s second
+
+----------------------------------------
+Hindi: no3 your business and public developement
+Translated: <unk> <unk> and <unk> and <unk>
+
+Actual: no3 your business and public development
+
+----------------------------------------
+Hindi: mtp युक्ति s खोलने में असमर्थ
+Translated: unable to open <unk> device s
+
+Actual: unable to open mtp device s
+
+----------------------------------------
+Hindi: mkisofs का संस्करण समर्थित नहीं है
+Translated: <unk> version is not supported
+
+Actual: this version of mkisofs is not supported
+
+----------------------------------------
+Hindi: ico फ़ाइल हेतु असमर्थित डेफ़्थ d
+Translated: <unk> file <unk> for <unk> d
+
+Actual: unsupported depth for ico file d
+
+----------------------------------------
+Hindi: housing benefit और council tax benefit
+Translated: housing benefit and council tax benefit
+
+Actual: housing benefit and council tax benefit
+
+----------------------------------------
+Hindi: housing benefit और council tax benefit
+Translated: housing benefit and council tax benefit
+
+Actual: housing benefit and council tax benefit
+
+----------------------------------------
+Hindi: gpl v3 संस्करण के तहत वितरित।
+Translated: display notification when a member comes online
+
+Actual: distributed under the gpl v3 license
+
+----------------------------------------
+Hindi: ekiga कॉल आउट खाता जोड़ें a
+Translated: add calls to the <unk> account
+
+Actual: add an ekiga call out account
+
+----------------------------------------
+Hindi: d पैकेज हटाया जा रहा है
+Translated: d package will be removed
+
+Actual: d package is going to be removed
+
+----------------------------------------
+Hindi: clutter बैकएंड आरंभ करने में विफल
+Translated: failed to start <unk> <unk>
+
+Actual: unable to initialize the clutter backend
+
+----------------------------------------
+Hindi: chrome office व्यूअर एक्सटेंशन अक्षम करें
+Translated: disable chrome <unk> <unk> extension
+
+Actual: disable chrome office viewer component extension
+
+----------------------------------------
+Hindi: cablesuspended limbed intelligent matching behavior robot
+Translated: display notification when a member comes online
+
+Actual: cablesuspended limbed intelligent matching behavior robot
+
+----------------------------------------
+Hindi: bनया उबुन्टू प्रकाशन s उपलब्ध हैb
+Translated: ubuntu <unk> version of ubuntu s
+
+Actual: bnew ubuntu release s is availableb
+
+----------------------------------------
+Hindi: bsb संस्करण isi स्थापित किया जाएगा
+Translated: bsb has published the latest version
+
+Actual: bsb version isi will be installed
+
+----------------------------------------
+Hindi: bsb ने क्लिष्ठ संदेश भेजा है
+Translated: bsb has sent back the following assigned task
+
+Actual: bsb has sent an unintelligible message
+
+----------------------------------------
+Hindi: bigbसभी अद्यतन संस्थापित नहीं हो सकाbbig
+Translated: update the upgrade will not be installed
+
+Actual: bigbnot all updates can be installedbbig
+
+----------------------------------------
+Hindi: authdir s बनाने में विफल s
+Translated: failed to create <unk> s s
+
+Actual: failed to create authdir s s
+
+----------------------------------------
+Hindi: amosar notificación cuando cole un miembru
+Translated: display notification when a member joins
+
+Actual: display notification when a member leaves
+
+----------------------------------------
+Hindi: aktualizowanie listy sieci co s sekundę
+Translated: update the network list every s second
+
+Actual: update the network list every s second
+
+----------------------------------------
+Hindi: 80 के बजाय 20 बैंड दिखाएँ
+Translated: eat 20 per cent of the <unk>
+
+Actual: show 80 bands instead of 20
+
+----------------------------------------
+Hindi: 7आपका रोगी से क्या रिश्ता है
+Translated: what is the result of the <unk>
+
+Actual: 7 what is your relationship to the patient
+
+----------------------------------------
+Hindi: 50 प्रतिशत लडकियां और लड़के हैं
+Translated: 50 percent of the <unk> and the <unk>
+
+Actual: about 50 percent girls and boys
+
+----------------------------------------
+Hindi: 3पलक या पुतली का कैंसर होना।
+Translated: <unk> or <unk> of the <unk>
+
+Actual: 3 having cancer of the eyelid or the eyeball
+
+----------------------------------------
+Hindi: 300 dpiमसौदा ग्रेस्केल काला रंग कार्ट्रेज
+Translated: <unk> <unk> <unk> black <unk> <unk>
+
+Actual: 300 dpi draft grayscale black color cartridge
+
+----------------------------------------
+Hindi: 3 अबुल अबऋऊण्श्छ्ष्बास अलऋरान शहरी ह्यपृ5हृ
+Translated: 3 <unk> <unk> <unk> <unk> <unk>
+
+Actual: abual abbas aleranshahri lrb p5 rrb
+
+----------------------------------------
+Hindi: 1930 में सुभाषबाबू कारावास में थे।
+Translated: subashbabu was in jail in 1930
+
+Actual: in 1930 subhash babu was in prison
+
+----------------------------------------
+Hindi: 11 श्रीकृष्णकाव्य स्वतंत्र प्रेमप्रधान काव्य है।
+Translated: 11 <unk> <unk> <unk> <unk> <unk> <unk>
+
+Actual: 11 shri krishna poetry is an independent poetry with love as main theme
+
+----------------------------------------
+Hindi: 1 संसद सदस्यॉ को शपथ दिलवाना
+Translated: 1 <unk> parliament <unk> <unk> <unk>
+
+Actual: 1administering the oath to the members of parliament
+
+----------------------------------------
+Hindi: 1 न्यायिक पुनरीक्षा का पात्र है
+Translated: 1 the <unk> of the supreme court
+
+Actual: review is the character of justice
+
+----------------------------------------
+Hindi: 0 को चक दिया 1 ne
+Translated: 0 went offline in the network 1
+
+Actual: 0 is bowled over by 1
+

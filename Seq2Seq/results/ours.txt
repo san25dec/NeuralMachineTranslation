@@ -1,0 +1,400 @@
+----------------------------------------
+Hindi: आपका ध्यान unk से बचा रहेगा।
+Translated: you must be able to get the latest password from the hearing
+Actual: to stop you from losing focus
+----------------------------------------
+Hindi: आप सब को पाकिस्तान से unk
+Translated: you know that the united states of pakistan
+Actual: UNK to all of you from pakistan
+----------------------------------------
+Hindi: आप unk अगर आप खुश हैं
+Translated: you are going to tell you you know 
+Actual: you smile if you are happy
+----------------------------------------
+Hindi: आप unk कि जैसेजैसे जनसंख्या unk
+Translated: you can be able to build the UNK UNK
+Actual: you will see that while population increase there are
+----------------------------------------
+Hindi: आप देख सकते हैं छोटे छेद
+Translated: you can see the UNK UNK
+Actual: you can notice the small holes
+----------------------------------------
+Hindi: आप छोटेछोटे क्षेत्र चुन सकते हैं
+Translated: you can be able to change the internet
+Actual: you could draw little circles to say
+----------------------------------------
+Hindi: unk पर केन्द्रित विशाल unk unk
+Translated: UNK on the UNK of UNK UNK
+Actual: on that self it should be centered a UNK a wholeness
+----------------------------------------
+Hindi: आज मैं आपसे चक्र और unk
+Translated: so im going to talk about here
+Actual: im here today to talk to you
+----------------------------------------
+Hindi: आज मेरी सिर्फ़ एक प्रार्थना है
+Translated: now i am a great story
+Actual: today i have just one request
+----------------------------------------
+Hindi: आज तक एवं हिन्दी का unk
+Translated: aaj tak and india in hindi
+Actual: aaj tak and india today in hindi
+----------------------------------------
+Hindi: आगरा और unk संयुक्त प्रांत 1903
+Translated: agra and UNK province province university
+Actual: agra and UNK combined state 1903
+----------------------------------------
+Hindi: आगरा और unk का संयुक्त प्रान्त
+Translated: agra of agra and province
+Actual: united provinces of agra and UNK
+----------------------------------------
+Hindi: आखिर यह विज्ञान का सवाल है
+Translated: so this is the question of history
+Actual: its a scientific question after all
+----------------------------------------
+Hindi: आंतरिक त्रुटि अनजान त्रुटि s निवेदित
+Translated: error an error error s s
+Actual: internal error unknown error s requested
+----------------------------------------
+Hindi: आँकड़ा स्रोत s unk नहीं है
+Translated: data s does not exist s
+Actual: data source s is not removable
+----------------------------------------
+Hindi: अस्थायी फाइल बनाने में असमर्थ s
+Translated: unable to create temporary file s
+Actual: unable to create temporary file s
+----------------------------------------
+Hindi: असली दुनिया का कंप्यूटर द्वारा बनाये
+Translated: to understand the whole world world
+Actual: is the UNK of the real world
+----------------------------------------
+Hindi: unk unk रूट unk प्रयोग करें
+Translated: use the UNK UNK password
+Actual: use UNK UNK root file system
+----------------------------------------
+Hindi: अवलोकन में क्लिप दृश्य प्रबंधित करें
+Translated: show the video in video mode
+Actual: manage the clip view in the overview
+----------------------------------------
+Hindi: अबू unk का यही कहना है
+Translated: it is called the UNK of UNK
+Actual: this is what abu UNK says
+----------------------------------------
+Hindi: अब वह मदद ढूँढने कैसे आएगा
+Translated: so how can help you get
+Actual: now how did he come to be looking for help
+----------------------------------------
+Hindi: अब यहाँ कट्टरपंथी प्रयोग आता है
+Translated: now this is known for UNK
+Actual: now here comes the radical experiment
+----------------------------------------
+Hindi: अब जो मुख्य unk है unk
+Translated: now this is the UNK UNK
+Actual: now the main bad guy UNK
+----------------------------------------
+Hindi: अब इन तीन unk को देखिए
+Translated: now they are going to see these three times
+Actual: ok now lets look at these three portraits
+----------------------------------------
+Hindi: अप्रत्याशित ” d पर s में
+Translated: always returned on d d s
+Actual: unexpected  at position d in s
+----------------------------------------
+Hindi: अप्रत्याशित जवाब d unk विधि से
+Translated: unexpected process of memory byte d
+Actual: unexpected reply d from UNK method
+----------------------------------------
+Hindi: अपेक्षा ही unk का मूल है।
+Translated: it is very important in terms
+Actual: UNK is the root of all UNK
+----------------------------------------
+Hindi: अपने से उच्च अधिकारी के आदेश
+Translated: to be the UNK of the court
+Actual: the orders of a superior officer
+----------------------------------------
+Hindi: अपने unk शल्य क्रिया के दौरान
+Translated: when they have been sent to the police
+Actual: in the course of his early operations
+----------------------------------------
+Hindi: अपनी चाय न चुनने के बावजूद
+Translated: do not listen to the internet
+Actual: even though the tea was picked for you at random
+----------------------------------------
+Hindi: अपना बायां अंगूठा s पर रखें
+Translated: send the message to the request
+Actual: place your left thumb on s
+----------------------------------------
+Hindi: अपना खुद का अलग फैशन बनाना
+Translated: to make their own mistakes of books
+Actual: developing your own unique personal style
+----------------------------------------
+Hindi: अन्य लोगों के साथ कैसे unk
+Translated: and how to do these people
+Actual: how to play with other people
+----------------------------------------
+Hindi: अन्तर्राष्ट्रीय वायु यातायात संघ विमानक्षेत्र कोड
+Translated: international national institute of airports air code
+Actual: international air transport association airport code
+----------------------------------------
+Hindi: अनुमानित आरंभिक पिच unk unk unk
+Translated: number of x warming when UNK UNK
+Actual: estimated start pitch sd UNK hz
+----------------------------------------
+Hindi: अनुचित विषयों पर चिंतित होने लगें
+Translated: take effect out of death
+Actual: to care about the wrong things
+----------------------------------------
+Hindi: अध्ययन वैज्ञानिक रूप से वैध हैं
+Translated: scientists have been easy to understand
+Actual: now these studies are scientifically valid
+----------------------------------------
+Hindi: अधिकतर unk घर में होती हैं
+Translated: there are two types of UNK in UNK
+Actual: most accidents take place in the home
+----------------------------------------
+Hindi: अधिक जानकारी के लिए unk unk
+Translated: to get more information for example
+Actual: try UNK UNK for more information
+----------------------------------------
+Hindi: अचानक आप उन्हें मेधावी कहने unk
+Translated:  you re happy  they said
+Actual: you now would think are gifted
+----------------------------------------
+Hindi: अगले unk शैली के लिए चक्र
+Translated: the next UNK of UNK UNK
+Actual: cycles to the next UNK style
+----------------------------------------
+Hindi: अगले ट्रैक पर केंद्रित कर चुनें
+Translated: click in the window to move the screen
+Actual: move focus to next and select
+----------------------------------------
+Hindi: अगली चाल हेतु संकेत प्राप्त करें
+Translated: use the next time to display
+Actual: get a hint for your next move
+----------------------------------------
+Hindi: अगर आप बातचीत करना चाहते हैं
+Translated: if you want to delete the problem
+Actual: if you want to have a conversation
+----------------------------------------
+Hindi: अगर आप पत्र लिखते हैं तो
+Translated: if you look at the end
+Actual: if you put it in writing
+----------------------------------------
+Hindi: unk से नवीनतम अद्यतन समाहित करें
+Translated: update the latest hamachi version
+Actual: include latest updates from the internet
+----------------------------------------
+Hindi: अंग्रेज़ी हिन्दी शब्दकोष unk प्रारूप में
+Translated: english hindi dictionary in pdf format
+Actual: hindi english dictionary in pdf file format
+----------------------------------------
+Hindi: unk unk мережі unk unk unk
+Translated: please enter the nickname you want to use
+Actual: include all networks created by this client
+----------------------------------------
+Hindi: unk से अप्रत्याशित सर्वर अनुक्रिया s
+Translated: unexpected error response from server s
+Actual: unexpected server response from UNK s
+----------------------------------------
+Hindi: xdmcp एक्सडीएमसीपी शीर्षिका पढ़ नहीं सका
+Translated: xdmcp could not read memory configuration
+Actual: xdmcp could not read xdmcp header
+----------------------------------------
+Hindi: x ऑफसेट बाईं स्क्रीन किनारे से
+Translated: width of the screen on 00 left
+Actual: x offset from the left screen edge
+----------------------------------------
+Hindi: unk पर संगठन निर्माण समर्थित नहीं
+Translated: UNK UNK not supported on startup
+Actual: association creation not supported on UNK
+----------------------------------------
+Hindi: unk का usb उपकरण एक्सेस करें
+Translated: use the username or usb password
+Actual: access the usb device from UNK
+----------------------------------------
+Hindi: usb पोर्ट में एक मुद्रक संबंधित
+Translated: the printer is connected with the printer manager
+Actual: a printer connected to a usb port
+----------------------------------------
+Hindi: u उपयोक्ता t में लॉगिन करेगा
+Translated: could not connect to display server
+Actual: user u will login in t
+----------------------------------------
+Hindi: the health service unk for unk
+Translated: the health of health services
+Actual: the health service ombudsman for england
+----------------------------------------
+Hindi: td यहाँ आमंत्रित आप सभी unk
+Translated: td here now i have the UNK UNK
+Actual: td so every one of you who has come here
+----------------------------------------
+Hindi: unk में पाइप विफल त्रुटि d
+Translated: failed to load UNK error error
+Actual: pipe to spamassassin failed error code d
+----------------------------------------
+Hindi: s रेंज के बाहर का मूल्य
+Translated: s value of the following range
+Actual: value of s out of range
+----------------------------------------
+Hindi: s में सहेजने में त्रुटि s
+Translated: error unable to open s s
+Actual: error while saving to s s
+----------------------------------------
+Hindi: s मुद्रक unk से बाहर है
+Translated: printer s is connected with toner
+Actual: printer s is out of UNK
+----------------------------------------
+Hindi: s फ़ोल्डर निर्मित नहीं सका s
+Translated: could not open folder s s
+Actual: could not create folder s s
+----------------------------------------
+Hindi: s फ़ाइल खोलने में असफल s
+Translated: failed to open file s s
+Actual: failed to open file s s
+----------------------------------------
+Hindi: s ध्वनि और आँकड़ा s में
+Translated: s data and shared s s
+Actual: audio and data s in s
+----------------------------------------
+Hindi: s कारण unk कमांड विफल s
+Translated: failed to execute command s UNK s
+Actual: UNK command failed s reason s
+----------------------------------------
+Hindi: s उत्पादक आईडी पढ़ नहीं पाया
+Translated: s was not found id found
+Actual: s could not read manufacturer id
+----------------------------------------
+Hindi: s अभिलेख हेतु कूटशब्द दाखिल करें
+Translated: enter the password for the UNK s
+Actual: enter the password for the archive s
+----------------------------------------
+Hindi: unk unk unk for unk unk
+Translated: if you want to revert all changes
+Actual: princess royal trust for carers UNK
+----------------------------------------
+Hindi: unk के पिक्सेल डाटा में संकेतक
+Translated: number of pixels in the video dialog
+Actual: a pointer to the pixel data of the UNK
+----------------------------------------
+Hindi: unk unk jaringan unk s unk
+Translated: please enter the latest password for this
+Actual: update the network list every s second
+----------------------------------------
+Hindi: unk your unk and unk unk
+Translated: the council who will be able to get care
+Actual: UNK your business and public development
+----------------------------------------
+Hindi: unk युक्ति s खोलने में असमर्थ
+Translated: unable to create UNK device s s
+Actual: unable to open UNK device s
+----------------------------------------
+Hindi: unk का संस्करण समर्थित नहीं है
+Translated: UNK UNK is not supported
+Actual: this version of UNK is not supported
+----------------------------------------
+Hindi: unk फ़ाइल हेतु असमर्थित unk d
+Translated: key file in unsupported format d
+Actual: unsupported depth for ico file d
+----------------------------------------
+Hindi: housing benefit और council tax benefit
+Translated: housing benefit and council tax benefit
+Actual: housing benefit and council tax benefit
+----------------------------------------
+Hindi: housing benefit और council tax benefit
+Translated: housing benefit and council tax benefit
+Actual: housing benefit and council tax benefit
+----------------------------------------
+Hindi: unk unk संस्करण के तहत unk
+Translated: UNK UNK UNK UNK words
+Actual: distributed under the gpl UNK license
+----------------------------------------
+Hindi: unk कॉल आउट खाता जोड़ें a
+Translated: UNK UNK UNK UNK UNK
+Actual: add an ekiga call out account
+----------------------------------------
+Hindi: d पैकेज हटाया जा रहा है
+Translated: the folder has already been removed
+Actual: d package is going to be removed
+----------------------------------------
+Hindi: unk unk आरंभ करने में विफल
+Translated: failed to start a UNK school
+Actual: unable to initialize the UNK backend
+----------------------------------------
+Hindi: chrome office व्यूअर एक्सटेंशन अक्षम करें
+Translated: enable google chrome UNK UNK UNK
+Actual: disable chrome office viewer component extension
+----------------------------------------
+Hindi: unk unk unk unk unk unk
+Translated: see the phone UNK in UNK
+Actual: UNK UNK intelligent matching behavior robot
+----------------------------------------
+Hindi: unk उबुन्टू प्रकाशन s उपलब्ध हैb
+Translated: please enter a new address address and this name is not allowed to be used for the local state
+Actual: UNK ubuntu release s is UNK
+----------------------------------------
+Hindi: bsb संस्करण unk स्थापित किया जाएगा
+Translated: bsb requests the following data
+Actual: bsb version isi will be installed
+----------------------------------------
+Hindi: bsb ने unk संदेश भेजा है
+Translated: bsb failed to start the latest message
+Actual: bsb has sent an UNK message
+----------------------------------------
+Hindi: unk अद्यतन संस्थापित नहीं हो unk
+Translated: the upgrade does not have been updated
+Actual: UNK all updates can be UNK
+----------------------------------------
+Hindi: unk s बनाने में विफल s
+Translated: failed to start UNK UNK UNK
+Actual: failed to create authdir s s
+----------------------------------------
+Hindi: unk notificación cuando unk un unk
+Translated: display notification when a member joins
+Actual: display notification when a member leaves
+----------------------------------------
+Hindi: unk unk sieci co s unk
+Translated: span weightbold UNK UNK UNK
+Actual: update the network list every s second
+----------------------------------------
+Hindi: 80 के बजाय 20 बैंड दिखाएँ
+Translated: drag and drop 20 hours in UNK
+Actual: show 80 bands instead of 20
+----------------------------------------
+Hindi: unk रोगी से क्या रिश्ता है
+Translated: make sure your child is born
+Actual: 7 what is your relationship to the patient
+----------------------------------------
+Hindi: 50 प्रतिशत unk और लड़के हैं
+Translated: children at the age of 20 and UNK they have been able to get the UNK in the UNK
+Actual: about 50 percent girls and boys
+----------------------------------------
+Hindi: unk या पुतली का कैंसर unk
+Translated: UNK or any person in UNK
+Actual: 3 having cancer of the eyelid or the eyeball
+----------------------------------------
+Hindi: 300 unk unk काला रंग unk
+Translated: UNK UNK UNK UNK UNK
+Actual: 300 dpi draft UNK black color UNK
+----------------------------------------
+Hindi: 3 अबुल unk unk शहरी unk
+Translated: 2 UNK UNK UNK UNK UNK
+Actual: UNK UNK UNK lrb UNK rrb
+----------------------------------------
+Hindi: 1930 में सुभाषबाबू कारावास में थे।
+Translated: in 1936 subhashbabu started his work
+Actual: in 1930 subhash babu was in prison
+----------------------------------------
+Hindi: 11 unk स्वतंत्र unk काव्य है।
+Translated: 11 sur UNK UNK UNK
+Actual: 11 shri krishna poetry is an independent poetry with love as main theme
+----------------------------------------
+Hindi: 1 संसद unk को शपथ unk
+Translated: on article the UNK of UNK UNK
+Actual: UNK the oath to the members of parliament
+----------------------------------------
+Hindi: 1 न्यायिक unk का पात्र है
+Translated: 1 the law of law
+Actual: review is the character of justice
+----------------------------------------
+Hindi: 0 को चक दिया 1 unk
+Translated: 0 went offline in the network 1
+Actual: 0 is bowled over by 1

@@ -1,0 +1,47 @@
+Indexer	preprocess.py	/^class Indexer:$/
+Indexer	preprocess-shards.py	/^class Indexer:$/
+License	LICENSE	/^The MIT License (MIT)$/
+Mconvert_to_cpu.lua	convert_to_cpu.lua	/^function main()$/
+Mevaluate.lua	evaluate.lua	/^function main()$/
+Mpreprocess-shards.py	preprocess-shards.py	/^def main(arguments):$/
+Mpreprocess.py	preprocess.py	/^def main(arguments):$/
+Mprune.lua	prune.lua	/^local function main()$/
+Mtrain.lua	train.lua	/^function main()$/
+__init__	preprocess.py	/^    def __init__(self, symbols = ["<blank>","<unk>/
+__init__	preprocess-shards.py	/^    def __init__(self, symbols = ["*blank*","<unk>/
+add_features_vocab	preprocess.py	/^    def add_features_vocab(orig_features, indexers/
+add_w	preprocess.py	/^    def add_w(self, ws):$/
+add_w	preprocess-shards.py	/^    def add_w(self, ws):$/
+append_table	train.lua	/^function append_table(dst, src)$/
+clean	preprocess.py	/^    def clean(self, s):$/
+clean	preprocess-shards.py	/^    def clean(self, s):$/
+convert	preprocess.py	/^    def convert(self, w):$/
+convert	preprocess.py	/^    def convert(srcfile, targetfile, alignfile, ba/
+convert	preprocess-shards.py	/^    def convert(self, w):$/
+convert	preprocess-shards.py	/^    def convert(srcfile, targetfile, batchsize, se/
+convert_sequence	preprocess.py	/^    def convert_sequence(self, ls):$/
+convert_sequence	preprocess-shards.py	/^    def convert_sequence(self, ls):$/
+countParameters	prune.lua	/^local function countParameters(m)$/
+eval	train.lua	/^function eval(data)$/
+getKth	prune.lua	/^local function getKth(k, t)$/
+get_data	preprocess.py	/^def get_data(args):$/
+get_data	preprocess-shards.py	/^def get_data(args):$/
+get_layer	train.lua	/^function get_layer(layer)$/
+init_feature_indexers	preprocess.py	/^    def init_feature_indexers(indexers, count):$/
+init_features_tensor	preprocess.py	/^        def init_features_tensor(indexers):$/
+load_features	preprocess.py	/^def load_features(name, indexers, outputfile):$/
+load_features	preprocess.py	/^        def load_features(orig_features, indexers,/
+load_sentence	preprocess.py	/^    def load_sentence(sent, indexers):$/
+load_vocab	preprocess.py	/^    def load_vocab(self, vocab_file, chars=0):$/
+make_vocab	preprocess.py	/^    def make_vocab(srcfile, targetfile, seqlength,/
+make_vocab	preprocess-shards.py	/^    def make_vocab(srcfile, targetfile, seqlength,/
+pad	preprocess.py	/^def pad(ls, length, symbol):$/
+pad	preprocess-shards.py	/^def pad(ls, length, symbol):$/
+prune	prune.lua	/^local function prune(m, gthreshold, locopt)$/
+prune_vocab	preprocess.py	/^    def prune_vocab(self, k):$/
+prune_vocab	preprocess-shards.py	/^    def prune_vocab(self, k):$/
+save_features	preprocess.py	/^def save_features(name, indexers, outputfile):$/
+train	train.lua	/^function train(train_data, valid_data)$/
+write	preprocess.py	/^    def write(self, outfile, chars=0):$/
+write	preprocess-shards.py	/^    def write(self, outfile):$/
+zero_table	train.lua	/^function zero_table(t)$/
